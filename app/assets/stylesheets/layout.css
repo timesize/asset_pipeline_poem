@@ -7,3 +7,8 @@ body {
   position: relative;
   width: 100%;
 }
+
+#hidden {
+  margin: 0 auto;
+  width: 200px;
+}
